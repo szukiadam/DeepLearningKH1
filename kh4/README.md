@@ -1,4 +1,4 @@
-##Homework no. 4 
+**Homework no. 4**
 
 To get the images I used a command from this article : https://towardsdatascience.com/how-to-easily-download-googles-open-images-dataset-for-your-ai-apps-db552a82fc6
 
