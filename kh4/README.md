@@ -7,3 +7,5 @@ The logs are in the zip files, where "log" is the log file for the training with
 I used google colab since I was having computational difficulties with my own computer. 
 
 In the end my model classifies all 300 test images correctly. 
+
+**Result: 22/20. I was given 2 extra points for using callback and tensorboard. **
