@@ -8,4 +8,4 @@ I used google colab since I was having computational difficulties with my own co
 
 In the end my model classifies all 300 test images correctly. 
 
-**Result: 22/20. I was given 2 extra points for using callback and tensorboard. **
+**Result: 22/20. I was given 2 extra points for using callback and tensorboard.**
